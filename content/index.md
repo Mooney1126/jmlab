@@ -1,9 +1,7 @@
 ---
 public: 'true'
-title: '""'
+title: "Welcome! \U0001F44B"
 ---
-
-# Welcome! 👋
 
 This is my Second Brain[^1] - a place where I document and share my ideas, learnings, and explorations. Here you'll find a collection of interconnected thoughts and resources that grow and evolve over time.
 
