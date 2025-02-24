@@ -27,6 +27,7 @@ jobs:
         run: |
           rm -rf docs
           mv public docs
+          echo "www.jmlab.net" > docs/CNAME
           
       - name: Commit and push built site
         run: |
