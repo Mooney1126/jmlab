@@ -2,7 +2,7 @@
 public: 'true'
 ---
 
-![[UnraidArchitecture.png]]
+![](/UnraidArchitecture.png)
 ## Purpose
 - Self hosted backup and network storage including multi-tier storage:
 	- NVME Docker Drive (1TB): Host Docker Services
