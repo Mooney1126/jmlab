@@ -6,41 +6,41 @@
       <description>Last 10 notes on JMLab</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>2.  Setup Github Mirror</title>
-    <link>https://www.jmlab.net/Projects/Self-Hosting/Second-Brain-Website/2.--Setup-Github-Mirror</link>
-    <guid>https://www.jmlab.net/Projects/Self-Hosting/Second-Brain-Website/2.--Setup-Github-Mirror</guid>
-    <description>Create Github Authorization Token In a browser navigate to github.com Navigate to Settings menus: Settings (Under menu opened from user icon in top right) Developer Settings Personal ...</description>
-    <pubDate>Fri, 28 Feb 2025 17:54:49 GMT</pubDate>
-  </item><item>
-    <title>3.  Setup Cloudflare</title>
-    <link>https://www.jmlab.net/Projects/Self-Hosting/Second-Brain-Website/3.--Setup-Cloudflare</link>
-    <guid>https://www.jmlab.net/Projects/Self-Hosting/Second-Brain-Website/3.--Setup-Cloudflare</guid>
-    <description>Cloudflare DNS Setup: Log into Cloudflare Select your domain Add a new DNS record: Type: CNAME Name: www (or your preferred subdomain) Target: username.github.io Proxy status: ...</description>
-    <pubDate>Fri, 28 Feb 2025 17:54:49 GMT</pubDate>
-  </item><item>
     <title>Welcome! 👋</title>
     <link>https://www.jmlab.net/</link>
     <guid>https://www.jmlab.net/</guid>
     <description>This is my Second Brain1 - a place where I document and share my ideas, learnings, and explorations. Here you’ll find a collection of interconnected thoughts and resources that grow and evolve over time.</description>
-    <pubDate>Fri, 28 Feb 2025 17:54:49 GMT</pubDate>
-  </item><item>
-    <title>LLM Prompt Development</title>
-    <link>https://www.jmlab.net/Projects/Local-Voice-Assistant/LLM-Prompt-Development</link>
-    <guid>https://www.jmlab.net/Projects/Local-Voice-Assistant/LLM-Prompt-Development</guid>
-    <description>LLM HomeAssistant Background Home assistant recently released the home assistant release preview edition which is open source hardware specifically gear for development of a ...</description>
-    <pubDate>Fri, 28 Feb 2025 17:54:49 GMT</pubDate>
-  </item><item>
-    <title>Architecture</title>
-    <link>https://www.jmlab.net/Projects/Self-Hosting/Architecture</link>
-    <guid>https://www.jmlab.net/Projects/Self-Hosting/Architecture</guid>
-    <description>...</description>
-    <pubDate>Fri, 28 Feb 2025 17:54:49 GMT</pubDate>
+    <pubDate>Fri, 28 Feb 2025 18:35:21 GMT</pubDate>
   </item><item>
     <title>1. Fork Quartz</title>
     <link>https://www.jmlab.net/Projects/Self-Hosting/Second-Brain-Website/1.-Fork-Quartz</link>
     <guid>https://www.jmlab.net/Projects/Self-Hosting/Second-Brain-Website/1.-Fork-Quartz</guid>
     <description>Required Previous Steps Setup Gitea Create Organization to hold Vault and Quartz repo’s Create Gite EA Runner Key Decisions: Opted for non-mirror to allow customizations Action ...</description>
-    <pubDate>Fri, 28 Feb 2025 17:54:49 GMT</pubDate>
+    <pubDate>Fri, 28 Feb 2025 18:35:21 GMT</pubDate>
+  </item><item>
+    <title>2.  Setup Github Mirror</title>
+    <link>https://www.jmlab.net/Projects/Self-Hosting/Second-Brain-Website/2.--Setup-Github-Mirror</link>
+    <guid>https://www.jmlab.net/Projects/Self-Hosting/Second-Brain-Website/2.--Setup-Github-Mirror</guid>
+    <description>Create Github Authorization Token In a browser navigate to github.com Navigate to Settings menus: Settings (Under menu opened from user icon in top right) Developer Settings Personal ...</description>
+    <pubDate>Fri, 28 Feb 2025 18:35:21 GMT</pubDate>
+  </item><item>
+    <title>3.  Setup Cloudflare</title>
+    <link>https://www.jmlab.net/Projects/Self-Hosting/Second-Brain-Website/3.--Setup-Cloudflare</link>
+    <guid>https://www.jmlab.net/Projects/Self-Hosting/Second-Brain-Website/3.--Setup-Cloudflare</guid>
+    <description>Cloudflare DNS Setup: Log into Cloudflare Select your domain Add a new DNS record: Type: CNAME Name: www (or your preferred subdomain) Target: username.github.io Proxy status: ...</description>
+    <pubDate>Fri, 28 Feb 2025 18:35:21 GMT</pubDate>
+  </item><item>
+    <title>LLM Prompt Development</title>
+    <link>https://www.jmlab.net/Projects/Local-Voice-Assistant/LLM-Prompt-Development</link>
+    <guid>https://www.jmlab.net/Projects/Local-Voice-Assistant/LLM-Prompt-Development</guid>
+    <description>LLM HomeAssistant Background Home assistant recently released the home assistant release preview edition which is open source hardware specifically gear for development of a ...</description>
+    <pubDate>Fri, 28 Feb 2025 18:35:21 GMT</pubDate>
+  </item><item>
+    <title>Architecture</title>
+    <link>https://www.jmlab.net/Projects/Self-Hosting/Architecture</link>
+    <guid>https://www.jmlab.net/Projects/Self-Hosting/Architecture</guid>
+    <description>...</description>
+    <pubDate>Fri, 28 Feb 2025 18:35:21 GMT</pubDate>
   </item>
     </channel>
   </rss>
