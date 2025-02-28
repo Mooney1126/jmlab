@@ -1,19 +1,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
     <loc>https://www.jmlab.net/Projects/Local-Voice-Assistant/LLM-Prompt-Development</loc>
-    <lastmod>2025-02-28T18:35:21.282Z</lastmod>
+    <lastmod>2025-02-28T20:49:14.057Z</lastmod>
   </url><url>
     <loc>https://www.jmlab.net/Projects/Self-Hosting/Architecture</loc>
-    <lastmod>2025-02-28T18:35:21.282Z</lastmod>
+    <lastmod>2025-02-28T20:49:14.057Z</lastmod>
   </url><url>
-    <loc>https://www.jmlab.net/Projects/Self-Hosting/Second-Brain-Website/1.-Fork-Quartz</loc>
-    <lastmod>2025-02-28T18:35:21.283Z</lastmod>
+    <loc>https://www.jmlab.net/Projects/Self-Hosting/Website-Deployment/1.--Overview</loc>
+    <lastmod>2025-02-28T20:49:14.058Z</lastmod>
   </url><url>
-    <loc>https://www.jmlab.net/Projects/Self-Hosting/Second-Brain-Website/2.--Setup-Github-Mirror</loc>
-    <lastmod>2025-02-28T18:35:21.283Z</lastmod>
+    <loc>https://www.jmlab.net/Projects/Self-Hosting/Website-Deployment/2.--Setup-Internal-Services</loc>
+    <lastmod>2025-02-28T20:49:14.058Z</lastmod>
   </url><url>
-    <loc>https://www.jmlab.net/Projects/Self-Hosting/Second-Brain-Website/3.--Setup-Cloudflare</loc>
-    <lastmod>2025-02-28T18:35:21.283Z</lastmod>
+    <loc>https://www.jmlab.net/Projects/Self-Hosting/Website-Deployment/3.--Setup-External-Services</loc>
+    <lastmod>2025-02-28T20:49:14.058Z</lastmod>
   </url><url>
     <loc>https://www.jmlab.net/</loc>
-    <lastmod>2025-02-28T18:35:21.284Z</lastmod>
+    <lastmod>2025-02-28T20:49:14.060Z</lastmod>
   </url></urlset>
