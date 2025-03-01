@@ -40,8 +40,26 @@ PageTitle.css = `
 }
 
 .site-logo {
-  max-width: 50px;
+  max-width: 100px !important; /* Added important to override any external styling */
+  width: 100px;
   height: auto;
+  object-fit: contain;
+  display: block; /* Ensures no extra space */
+}
+
+/* Ensure consistency across different screen sizes */
+@media (max-width: 768px) {
+  .site-logo {
+    max-width: 80px !important;
+    width: 80px;
+  }
+}
+
+/* More specific selector to override external styles */
+.title-with-logo .logo-container .quartz-custom-logo {
+  max-width: 100px !important;
+  width: 100px !important;
+  height: auto !important;
 }
 `
 
