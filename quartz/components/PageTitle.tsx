@@ -40,7 +40,7 @@ PageTitle.css = `
 }
 
 .site-logo {
-  max-width: 100px;
+  max-width: 50px;
   height: auto;
 }
 `
