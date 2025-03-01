@@ -1,5 +1,6 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
+import { ComponentResources } from "./quartz/plugins"
 
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
@@ -16,6 +17,11 @@ export const sharedPageComponents: SharedLayout = {
 
 // components for pages that display a single page (e.g. a single note)
 export const defaultContentPageLayout: PageLayout = {
+  header: [
+    Component.PageTitle(),
+    Component.Search(),
+    Component.Darkmode(),
+  ],
   beforeBody: [
     Component.Breadcrumbs(),
     Component.ArticleTitle(),
@@ -23,14 +29,11 @@ export const defaultContentPageLayout: PageLayout = {
     Component.TagList(),
   ],
   left: [
-    Component.PageTitle(),
+    Component.PageLogo(),
     Component.MobileOnly(Component.Spacer()),
-    Component.Search(),
-    Component.Darkmode(),
     Component.Explorer(),
   ],
   right: [
-    //Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],
