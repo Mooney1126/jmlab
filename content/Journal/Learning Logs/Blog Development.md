@@ -14,7 +14,9 @@ title: 'Effective Knowledge Management: Using Obsidian for Productivity and Secu
 ## Work In Progress: TODO
  This article is a work in progress, and a current topic of research. 
  - Meta Bind Plugin: Button Development
+ - Update image to diagram of work-flow
 
+![](/00002-2210682333.png)
 
 In today's fast-paced digital world, effective personal knowledge management (PKM) is essential for maintaining clarity and productivity. This article delves into my structured approach to organizing thoughts and streamlining processes using Obsidian, a powerful note-taking tool. By integrating automation, I transform these organized notes into well-structured blog posts, ensuring that valuable insights are shared with the world while maintaining a strict commitment to privacy. Through the use of Gitea and GitHub, I securely manage and publish content, creating a seamless workflow that aligns with my goals of knowledge sharing and digital security.
 
