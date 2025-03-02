@@ -1,17 +1,13 @@
 ---
 public: 'true'
-title: "Welcome! \U0001F44B"
+title: Digital Exploration & Self-Hosting Mastery
 ---
 
-This is my Second Brain[^1] - a place where I document and share my ideas, learnings, and explorations. Here you'll find a collection of interconnected thoughts and resources that grow and evolve over time.
+As a dedicated content creator, my weekly routine is immersed in exploring the latest digital tools and self-hosting applications. My mission is to establish a personal platform for sharing in-depth research and insights on these topics annually. Frustrated by the overwhelming abundance of new content that often necessitates relearning rather than mastery, I am committed to creating a space focused on growth—where we can discover valuable information without getting lost in endless scrolling through new techniques and fleeting fads.
 
 ## Featured Content
 
 <table style="border-collapse: collapse;">
-  <tr>
-    <th>Content</th>
-    <th>Image</th>
-  </tr>
   <tr>
     <td style="vertical-align: top; padding: 10px;">
       <div style="font-weight: bold; font-size: 1.2em; margin-bottom: 4px;"><a href="Projects/Self Hosting/Architecture.md">Self-Hosted Services with Unraid</a></div>
@@ -36,8 +32,15 @@ This is my Second Brain[^1] - a place where I document and share my ideas, learn
   </tr>
 </table>
 
+## What You'll Find Here
 
-## How This Works
+- **Projects**: Documentation of my active and completed work
+- **Journal**: Personal reflections and learning journey
+- **Future Content**
+	- **Curriculum Vitae**: Professional background and achievements
+	- **Bookmarks**: Curated collection of useful resources and references
+
+## About this Site
 
 This site is powered by a unique workflow:
 1. I write and manage all content in Obsidian, a markdown-based note-taking app
@@ -49,19 +52,3 @@ This approach allows me to:
 - Maintain a single source of truth in Obsidian
 - Leverage Obsidian's powerful linking and graph features
 - Automatically publish updates
-
-## What You'll Find Here
-
-- **Projects**: Documentation of my active and completed work
-- **Curriculum Vitae**: Professional background and achievements
-- **Blog**: Technical posts, tutorials, and analysis
-- **Journal**: Personal reflections and learning journey
-- **Bookmarks**: Curated collection of useful resources and references
-
-## About This Site
-
-This site serves as my second brain, built using Quartz v4. It's designed to make information easily accessible and interconnected.
-
----
-
-[^1]: Concept from "Building a Second Brain" by Tiago Forte (2022), which outlines a methodology for organizing our digital lives and turning our personal knowledge into creative output.
