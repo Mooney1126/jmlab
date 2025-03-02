@@ -16,7 +16,7 @@ As a dedicated content creator, my weekly routine is immersed in exploring the l
       <div><a href="Projects/Self Hosting/Architecture.md">Read more...</a></div>
     </td>
     <td style="vertical-align: top; padding: 10px;">
-      <img src="UnraidArchitecture.png" width="200px">
+      <img src="Projects/Self Hosting/UnraidArchitecture.png" width="400px">
     </td>
   </tr>
   <tr>
@@ -27,7 +27,7 @@ As a dedicated content creator, my weekly routine is immersed in exploring the l
       <div><a href="Journal/Learning Logs/Blog Development.md">Read more...</a></div>
     </td>
     <td style="vertical-align: top; padding: 10px;">
-      <img src="00002-2210682333.png" width="200px">
+      <img src="Journal/Learning Logs/00002-2210682333.png" width="400px">
     </td>
   </tr>
 </table>
