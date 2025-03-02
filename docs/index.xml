@@ -6,35 +6,35 @@
       <description>Last 10 notes on JM Lab</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Welcome! 👋</title>
+    <title>Digital Exploration &amp; Self-Hosting Mastery</title>
     <link>https://www.jmlab.net/</link>
     <guid>https://www.jmlab.net/</guid>
-    <description>This is my Second Brain1 - a place where I document and share my ideas, learnings, and explorations. Here you’ll find a collection of interconnected thoughts and resources that grow and evolve over time.</description>
-    <pubDate>Sun, 02 Mar 2025 01:33:19 GMT</pubDate>
+    <description>As a dedicated content creator, my weekly routine is immersed in exploring the latest digital tools and self-hosting applications. My mission is to establish a personal platform for sharing in-depth research and insights on these topics annually.</description>
+    <pubDate>Sun, 02 Mar 2025 01:51:09 GMT</pubDate>
   </item><item>
     <title>1.  Overview</title>
     <link>https://www.jmlab.net/Projects/Self-Hosting/Website-Deployment/1.--Overview</link>
     <guid>https://www.jmlab.net/Projects/Self-Hosting/Website-Deployment/1.--Overview</guid>
     <description>Website deployment is divided into two stages: one-time setup (where we create the infrastructure for hosting a website based on markdown content) and maintenance ...</description>
-    <pubDate>Sun, 02 Mar 2025 01:33:19 GMT</pubDate>
+    <pubDate>Sun, 02 Mar 2025 01:51:09 GMT</pubDate>
   </item><item>
     <title>2.  Setup-Internal Services</title>
     <link>https://www.jmlab.net/Projects/Self-Hosting/Website-Deployment/2.--Setup-Internal-Services</link>
     <guid>https://www.jmlab.net/Projects/Self-Hosting/Website-Deployment/2.--Setup-Internal-Services</guid>
     <description>Gitea We will be leveraging gitea to create two repo’s: Obsidian Vault: Empty Repo Quartz: Cloned from Public repo With these two repo’s generated we will then setup obsidian to synchronize ...</description>
-    <pubDate>Sun, 02 Mar 2025 01:33:19 GMT</pubDate>
+    <pubDate>Sun, 02 Mar 2025 01:51:09 GMT</pubDate>
   </item><item>
     <title>3.  Setup-External Services</title>
     <link>https://www.jmlab.net/Projects/Self-Hosting/Website-Deployment/3.--Setup-External-Services</link>
     <guid>https://www.jmlab.net/Projects/Self-Hosting/Website-Deployment/3.--Setup-External-Services</guid>
     <description>Github Create Github Authorization Token In a browser navigate to github.com Navigate to Settings menus: Settings (Under menu opened from user icon in top right) Developer Settings ...</description>
-    <pubDate>Sun, 02 Mar 2025 01:33:19 GMT</pubDate>
+    <pubDate>Sun, 02 Mar 2025 01:51:09 GMT</pubDate>
   </item><item>
     <title>LLM Prompt Development</title>
     <link>https://www.jmlab.net/Projects/Local-Voice-Assistant/LLM-Prompt-Development</link>
     <guid>https://www.jmlab.net/Projects/Local-Voice-Assistant/LLM-Prompt-Development</guid>
     <description>Background Home assistant recently released the home assistant release preview edition which is open source hardware specifically gear for development of a locally hosted home ...</description>
-    <pubDate>Sun, 02 Mar 2025 01:33:19 GMT</pubDate>
+    <pubDate>Sun, 02 Mar 2025 01:51:09 GMT</pubDate>
   </item><item>
     <title>Effective Knowledge Management: Using Obsidian for Productivity and Security</title>
     <link>https://www.jmlab.net/Journal/Learning-Logs/Blog-Development</link>
