@@ -1,5 +1,14 @@
 ---
+date: 02/29/2025
+featured: 'true'
+image: UnraidArchitecture.png
 public: 'true'
+summary: Discover how to efficiently manage and deploy a variety of self-hosted services
+  by balancing local infrastructure tools like Docker on Unraid with external platforms
+  such as GitHub Actions. Learn about optimizing different applications, from blogs
+  to task management tools, leveraging automation and seamless integration for robust
+  online solutions.
+title: Self-Hosted Services with Unraid
 ---
 
 ![](/UnraidArchitecture.png)

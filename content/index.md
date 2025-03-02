@@ -5,6 +5,38 @@ title: "Welcome! \U0001F44B"
 
 This is my Second Brain[^1] - a place where I document and share my ideas, learnings, and explorations. Here you'll find a collection of interconnected thoughts and resources that grow and evolve over time.
 
+## Featured Content
+
+<table style="border-collapse: collapse;">
+  <tr>
+    <th>Content</th>
+    <th>Image</th>
+  </tr>
+  <tr>
+    <td style="vertical-align: top; padding: 10px;">
+      <div style="font-weight: bold; font-size: 1.2em; margin-bottom: 4px;"><a href="Projects/Self Hosting/Architecture.md">Self-Hosted Services with Unraid</a></div>
+      <div style="font-style: italic; margin-bottom: 8px;">Published: 02/29/2025</div>
+      <div style="margin-bottom: 8px;">Discover how to efficiently manage and deploy a variety of self-hosted services by balancing local infrastructure tools like Docker on Unraid with external platforms such as GitHub Actions. Learn about optimizing different applications, from blogs to task management tools, leveraging automation and seamless integration for robust online solutions.</div>
+      <div><a href="Projects/Self Hosting/Architecture.md">Read more...</a></div>
+    </td>
+    <td style="vertical-align: top; padding: 10px;">
+      <img src="UnraidArchitecture.png" width="200px">
+    </td>
+  </tr>
+  <tr>
+    <td style="vertical-align: top; padding: 10px;">
+      <div style="font-weight: bold; font-size: 1.2em; margin-bottom: 4px;"><a href="Journal/Learning Logs/Blog Development.md">Effective Knowledge Management: Using Obsidian for Productivity and Security</a></div>
+      <div style="font-style: italic; margin-bottom: 8px;">Published: 2025-03-01</div>
+      <div style="margin-bottom: 8px;">Effective personal knowledge management is crucial in today's fast-paced world. This article explores using Obsidian to organize thoughts and streamline processes, leveraging automation for creating blog posts while maintaining privacy through secure publishing with Gitea and GitHub.</div>
+      <div><a href="Journal/Learning Logs/Blog Development.md">Read more...</a></div>
+    </td>
+    <td style="vertical-align: top; padding: 10px;">
+      <img src="00002-2210682333.png" width="200px">
+    </td>
+  </tr>
+</table>
+
+
 ## How This Works
 
 This site is powered by a unique workflow:
@@ -29,14 +61,6 @@ This approach allows me to:
 ## About This Site
 
 This site serves as my second brain, built using Quartz v4. It's designed to make information easily accessible and interconnected.
-
-## Getting Started
-
-The best way to explore this site:
-
-1. Use the graph view to discover connections
-2. Try the search to find specific topics
-3. Browse through tags to find related content
 
 ---
 
