@@ -29,7 +29,6 @@ title: Self-Hosted Services with Unraid
 
 
 ## Hardware
-
 - Case: Jonsbo N4 https://www.jonsbo.com/en/products/N4Black.html
 - Motherboard: ASRock X570M Pro4 https://www.asrock.com/mb/AMD/X570M%20Pro4/
 - CPU: Ryzen 5 PRO 4650GE https://www.amd.com/en/support/downloads/drivers.html/processors/ryzen-pro/ryzen-pro-4000-series/amd-ryzen-5-pro-4650ge.html
@@ -38,7 +37,14 @@ title: Self-Hosted Services with Unraid
 - Cache: NVME: 2x 1TB Crucial
 - ZFS: SSD: 4x 2TB Various
 - Array: HDD: 2x 14 TB & 1x 20TB Ironwolf NAS Drives
+- ICY DOCK 4 Bay 2.5"
+- Slim USB Blu-ray RW Drive
 
+### Case Modifications
+Removed HDD/SSD Cage bottom right of case to make room for Icy Dock 2.5".  Only the the left hdd cage in the unit had a back plane.
+Resources:
+- 5.25 Drawer: https://makerworld.com/en/models/29034-5-25-inch-pc-drawer-v2
+![](/Pasted image 20250317082250.png)
 ## Internal Services
 - Gitea 
 - Home Assistant

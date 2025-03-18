@@ -18,7 +18,7 @@ title: 'Effective Knowledge Management: Using Obsidian for Productivity and Secu
 
 ![](/00002-2210682333.png)
 
-In today's fast-paced digital world, effective personal knowledge management (PKM) is essential for maintaining clarity and productivity. This article delves into my structured approach to organizing thoughts and streamlining processes using Obsidian, a powerful note-taking tool. By integrating automation, I transform these organized notes into well-structured blog posts, ensuring that valuable insights are shared with the world while maintaining a strict commitment to privacy. Through the use of Gitea and GitHub, I securely manage and publish content, creating a seamless workflow that aligns with my goals of knowledge sharing and digital security.
+In today's fast-paced digital world, effective personal knowledge management (PKM) is essential for maintaining clarity and productivity. This article delves into my structured approach to organizing thoughts and streamlining processes using Obsidian, a powerful note-..-taking tool. By integrating automation, I transform these organized notes into well-structured blog posts, ensuring that valuable insights are shared with the world while maintaining a strict commitment to privacy. Through the use of Gitea and GitHub, I securely manage and publish content, creating a seamless workflow that aligns with my goals of knowledge sharing and digital security.
 
 ## Building Blocks
 The goal of this approach is to leverage the latest in self hosted services to assist in development with a focus on organization which can be aided by the latest AI and Large Language model development.  
@@ -61,4 +61,17 @@ tR += frontmatter;
 ```
 
 ### AI Assisted Functionality
-Leveraging the meta bind plugin and ollama
+AI and Large Laungauge Models have become all the rage these days.   In my research I have been leveraging both self hosted large language models through ollama for simple tasks, and anthropoics claude ai for more complex questions. Leveraging the meta bind plugin, templater  and ollama.  Required addons:
+- [Meta Bind](https://www.moritzjung.dev/obsidian-meta-bind-plugin-docs/):  Button Creation 
+- JS Engine: Calling javascript inline from a meta bind button
+- Text-generator: LLM integrated inline text
+
+
+
+```meta-bind-button
+style: primary
+label: List All Commands
+action:
+  type: inlineJS
+  code: "const commands = app.commands.commands; const copilotCommands = Object.keys(commands).filter(cmd => cmd.includes('copilot')); console.log('Available Copilot commands:', copilotCommands); new Notice('Check console for available commands (Ctrl+Shift+I)'); if (copilotCommands.length === 0) { console.log('All commands:', Object.keys(commands)); }"
+```
